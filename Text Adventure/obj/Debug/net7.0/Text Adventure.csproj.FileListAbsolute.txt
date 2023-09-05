@@ -1,0 +1,14 @@
+C:\Users\ljm.koehnen-garcon\Documents\programmieren\VSCode Projekte\Text Adventure\Text Adventure\bin\Debug\net7.0\Text Adventure.exe
+C:\Users\ljm.koehnen-garcon\Documents\programmieren\VSCode Projekte\Text Adventure\Text Adventure\bin\Debug\net7.0\Text Adventure.deps.json
+C:\Users\ljm.koehnen-garcon\Documents\programmieren\VSCode Projekte\Text Adventure\Text Adventure\bin\Debug\net7.0\Text Adventure.runtimeconfig.json
+C:\Users\ljm.koehnen-garcon\Documents\programmieren\VSCode Projekte\Text Adventure\Text Adventure\bin\Debug\net7.0\Text Adventure.dll
+C:\Users\ljm.koehnen-garcon\Documents\programmieren\VSCode Projekte\Text Adventure\Text Adventure\bin\Debug\net7.0\Text Adventure.pdb
+C:\Users\ljm.koehnen-garcon\Documents\programmieren\VSCode Projekte\Text Adventure\Text Adventure\obj\Debug\net7.0\Text Adventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljm.koehnen-garcon\Documents\programmieren\VSCode Projekte\Text Adventure\Text Adventure\obj\Debug\net7.0\Text Adventure.AssemblyInfoInputs.cache
+C:\Users\ljm.koehnen-garcon\Documents\programmieren\VSCode Projekte\Text Adventure\Text Adventure\obj\Debug\net7.0\Text Adventure.AssemblyInfo.cs
+C:\Users\ljm.koehnen-garcon\Documents\programmieren\VSCode Projekte\Text Adventure\Text Adventure\obj\Debug\net7.0\Text Adventure.csproj.CoreCompileInputs.cache
+C:\Users\ljm.koehnen-garcon\Documents\programmieren\VSCode Projekte\Text Adventure\Text Adventure\obj\Debug\net7.0\Text Adventure.dll
+C:\Users\ljm.koehnen-garcon\Documents\programmieren\VSCode Projekte\Text Adventure\Text Adventure\obj\Debug\net7.0\refint\Text Adventure.dll
+C:\Users\ljm.koehnen-garcon\Documents\programmieren\VSCode Projekte\Text Adventure\Text Adventure\obj\Debug\net7.0\Text Adventure.pdb
+C:\Users\ljm.koehnen-garcon\Documents\programmieren\VSCode Projekte\Text Adventure\Text Adventure\obj\Debug\net7.0\Text Adventure.genruntimeconfig.cache
+C:\Users\ljm.koehnen-garcon\Documents\programmieren\VSCode Projekte\Text Adventure\Text Adventure\obj\Debug\net7.0\ref\Text Adventure.dll
